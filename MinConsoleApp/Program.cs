@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Global fejlhåndtering
+            // Global fejlhåndtering...
             try
             {
                 Run();
