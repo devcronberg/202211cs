@@ -65,6 +65,8 @@ namespace Teknologisk
             //        break;
             //}
 
+
+            Console.WriteLine("");
         }
     }
 

@@ -1,4 +1,6 @@
-﻿namespace TerningBæger
+﻿using System.IO.Pipes;
+
+namespace TerningBæger
 {
     internal class Program
     {
@@ -11,7 +13,44 @@
                 b.Skriv();
                 Console.WriteLine(b.Point());
             }
+
+            //Person p = new Person();
+            //p.Skriv();
+            //p.Antal = 1;
+
+            Vare v = new Vare();
+            v.Pris = 100;
+            Console.WriteLine(v.PrisMedMoms);
+
+
         }
+    }
+
+    public class Vare
+    {
+
+        private double pris;
+
+        public double Pris
+        {
+            get { return pris; }
+            set { pris = value; }
+        }
+
+        //public double PrisMedMoms()
+        //{
+        //    return this.Pris * 1.25;
+        //}
+
+        public double PrisMedMoms
+        {
+            get
+            {
+                return this.Pris * 1.25;
+            }
+        }
+
+
     }
 
     public class Bæger
@@ -101,8 +140,24 @@
         }
     }
 
+    // Console.WriteLine(p.Alder);
+
     public class Spiller
     {
 
+        private int _alder;
+
+        public int Alder
+        {
+            get { return _alder; }
+            set { _alder = value; }
+        }
+
+
     }
+
+
+    
+
+
 }
