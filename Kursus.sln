@@ -3,29 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler1", "Variabler1\Variabler1.csproj", "{71441E9E-35B0-4677-9090-EC8BC50B0844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler1", "Variabler1\Variabler1.csproj", "{71441E9E-35B0-4677-9090-EC8BC50B0844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablerOpgave", "VariablerOpgave\VariablerOpgave.csproj", "{621ED25B-356E-4CF0-A3C5-5DE17AD84F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablerOpgave", "VariablerOpgave\VariablerOpgave.csproj", "{621ED25B-356E-4CF0-A3C5-5DE17AD84F82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Format", "Format\Format.csproj", "{892275BA-6FF0-423D-9ECF-4CAACC712EC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Format", "Format\Format.csproj", "{892275BA-6FF0-423D-9ECF-4CAACC712EC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeKonv", "TypeKonv\TypeKonv.csproj", "{82B57CD6-3763-4FF7-BA2B-94F7FCFD0107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeKonv", "TypeKonv\TypeKonv.csproj", "{82B57CD6-3763-4FF7-BA2B-94F7FCFD0107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streng", "Streng\Streng.csproj", "{9E078B20-AB2D-41B1-8806-2FB0C1CF1980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Streng", "Streng\Streng.csproj", "{9E078B20-AB2D-41B1-8806-2FB0C1CF1980}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumTest", "HumTest\HumTest.csproj", "{D964FCFD-24FE-40E6-94F6-315291AAEF8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HumTest", "HumTest\HumTest.csproj", "{D964FCFD-24FE-40E6-94F6-315291AAEF8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Const", "Const\Const.csproj", "{6DEF60A3-4358-470C-8958-E52E16557E94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Const", "Const\Const.csproj", "{6DEF60A3-4358-470C-8958-E52E16557E94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KortSpilVersion1", "KortSpilVersion1\KortSpilVersion1.csproj", "{B45375F8-B0FC-4AA3-BDA2-0BFFF4791843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KortSpilVersion1", "KortSpilVersion1\KortSpilVersion1.csproj", "{B45375F8-B0FC-4AA3-BDA2-0BFFF4791843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow", "Flow\Flow.csproj", "{0E695FC7-0ECF-4581-9B61-822C831DEEE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flow", "Flow\Flow.csproj", "{0E695FC7-0ECF-4581-9B61-822C831DEEE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metode", "Metode\Metode.csproj", "{01814003-A546-4968-BB51-09B2D5D368D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metode", "Metode\Metode.csproj", "{01814003-A546-4968-BB51-09B2D5D368D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{2B19CB8D-EFDE-48B4-B855-FA4170C5872D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{2B19CB8D-EFDE-48B4-B855-FA4170C5872D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinConsoleApp", "MinConsoleApp\MinConsoleApp.csproj", "{C2DCD117-02D7-42E1-9078-EFA10AD2B175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinConsoleApp", "MinConsoleApp\MinConsoleApp.csproj", "{C2DCD117-02D7-42E1-9078-EFA10AD2B175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerningBæger", "TerningBæger\TerningBæger.csproj", "{71801459-13A8-4EF6-8BB3-D2C1518480A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{C2DCD117-02D7-42E1-9078-EFA10AD2B175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2DCD117-02D7-42E1-9078-EFA10AD2B175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2DCD117-02D7-42E1-9078-EFA10AD2B175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71801459-13A8-4EF6-8BB3-D2C1518480A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71801459-13A8-4EF6-8BB3-D2C1518480A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71801459-13A8-4EF6-8BB3-D2C1518480A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71801459-13A8-4EF6-8BB3-D2C1518480A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
