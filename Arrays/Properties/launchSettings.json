@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Arrays": {
+      "commandName": "Project",
+      "commandLineArgs": "-p -o\r\n"
+    }
+  }
+}

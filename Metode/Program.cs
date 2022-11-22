@@ -29,12 +29,12 @@ Console.WriteLine(res6.gns);
 
 var res7 = Metode10(85);
 
-Metode11("*", 11, true, "DK");
+//Metode11("*", 11, true, "DK");
 
-Metode11(navn: "Test", 
-    land: "DK", 
-    alder: 11, 
-    erSmart: true);
+//Metode11(navn: "Test", 
+//    land: "DK", 
+//    alder: 11, 
+//    erSmart: true);
 
 Test t = new Test();
 int res8 = t.Metode12(1, 5, 1);

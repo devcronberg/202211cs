@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WinFormsApp1.Person">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAEAAAAAAAgAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp1.MinKnap">
+    <Position X="2" Y="90" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Button">
+    <Position X="2" Y="84.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.ButtonBase">
+    <Position X="2" Y="71.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.ButtonBase.ButtonBaseAccessibleObject" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Control">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Control.ControlAccessibleObject" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="System.Windows.Forms.Control.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
